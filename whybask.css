@@ -115,7 +115,8 @@ header{
     width: 312px;
     top: 288px;
     left: 32px;
-    right: 31px;
+    color: #0F174F;
+    font-size: 32px;
 }
 
 .why-second p{
@@ -125,5 +126,47 @@ header{
     width: 312px;
     top: 416px;
     left: 32px;
+    color: #6C6D7B;
+    font-size: 16px;
     
+}
+
+.why-second img{
+    position: absolute;
+    border: solid black 1px;
+    height: 248px;
+    width: 375px;
+    top: 664px;
+}
+
+
+.why-third h1{
+    position: absolute;
+    border: solid black 1px;
+    height: 72px;
+    width: 312px;
+    top: 944px;
+    left: 32px;
+    color: #0F174F;
+    font-size: 32px;
+}
+
+.why-third p{
+    position: absolute;
+    border: solid black 1px;
+    height: 344px;
+    width: 312px;
+    top: 1032px;
+    left: 32px;
+    color: #6C6D7B;
+    font-size: 16px;
+    
+}
+
+.why-third div{
+    position: absolute;
+    border: solid black 1px;
+    height: 248px;
+    width: 375px;
+    top: 664px;
 }
